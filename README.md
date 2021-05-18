@@ -8,6 +8,6 @@ BOT
 --settings --failed-- --FIX--
 --settings
 --settings
---settings --failed--
+--settings --failed-- --FIX--
 --settings --failed-- --FIX--
 --settings
